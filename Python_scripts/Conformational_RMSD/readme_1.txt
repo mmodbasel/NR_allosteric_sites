@@ -1,0 +1,1 @@
+Usage: Run script in same directory as reference PDB file (AR.pdb), list of residue numbers to be considered (AR_AF2.lst), PDB files derived from cosolvent simulation (e.g. AR_acetonitrile.pdb), as well as empty table with correct headings (e.g. data_empty_AF2_acetonitrile.csv). For every probe molecule, a separate script is supplied.
